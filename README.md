@@ -48,9 +48,9 @@
   
   `* Tổng quan về kỹ thuật`
   
-    `* Chức năng dẫn nhập trong C++`
+    * Chức năng dẫn nhập trong C++
     
-    `* Thư viện C++`
+    * Thư viện C++
     
   `* Các ví dụ về C++`
   
