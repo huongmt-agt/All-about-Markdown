@@ -158,9 +158,11 @@ sẽ nhận được kết quả sau:
 Dùng ký tự `^` bên trong ngoặc vuông `[]` để đánh dấu và viết lại giải thích ở cuối
 
 `John Gruber[^1].`
- ...
- ...
- [^1]: writer, blog publisher, UI designer, the inventor of the Markdown publishing format. 
+
+ `...`
+ 
+ `...`
+ `[^1]: writer, blog publisher, UI designer, the inventor of the Markdown publishing format.` 
 
   
   
