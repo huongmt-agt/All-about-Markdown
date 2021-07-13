@@ -128,9 +128,9 @@
      
   **6. Tạo bảng**
      
-      Các cột được tách nau bằng dấu ngăn thẳng dduwngs`|` và header được tách với content bằng dấu gạch ngang `-`
+      Các cột được tách nau bằng dấu ngăn thẳng dduwngs`|` và header được tách với content bằng dấu gạch ngang `-`.Ở dòng ngăn cách giữa header và content bạn sẽ thấy ký hiệu căn lề trái phải (cột 2 và cột 3) bằng dấu hai chấm `:`
      
-     `| Previous number |     Number     | Next number  |`
+      | Previous number |     Number     | Next number  |
       | --------------- |:--------------:| ------------:|
       |    Five         |       Six      |     Seven    |
       |    Two          |     Three      |     Four     |
