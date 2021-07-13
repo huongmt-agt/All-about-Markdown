@@ -162,11 +162,20 @@ Dùng ký tự `^` bên trong ngoặc vuông `[]` để đánh dấu và viết 
  `...`
  
  `...`
+ 
  `[^1]: writer, blog publisher, UI designer, the inventor of the Markdown publishing format.` 
 
+  **9. Emoji**
   
+  Bạn có thể chèn thêm các biểu tượng thể hiện cảm xúc bằng ký tự `:Text:`
   
-      
-   
-   
-   
+  Ví dụ như khi gõ `:smile:`, bạn sẽ nhận được icon 😄
+  
+  Tham khảo bộ emoji theo cheatsheet của Github [tại đây](https://www.webfx.com/tools/emoji-cheat-sheet/)
+  
+  ***************
+  
+  Nguồn tham khảo:
+  
+  1. Kipalog (https://kipalog.com/posts/Huong-dan-su-dung-Markdown-tren-Kipalog)
+  2. Codehub (https://www.codehub.com.vn/Markdown-La-Gi)
