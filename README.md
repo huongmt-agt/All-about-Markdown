@@ -96,3 +96,6 @@
     https://en.wikipedia.org/wiki/John_Gruber
     
     sẽ dẫn thẳng tới đường link: https://en.wikipedia.org/wiki/John_Gruber
+   
+   Ngoài ra, bạn có thể tạo liên kết bằng cách kết hợp dấu ngoặc cho văn bản liên kết và dấu ngoặc cho URL theo mẫu như sau: `[Text](Link)`
+   
