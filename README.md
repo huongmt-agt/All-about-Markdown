@@ -152,6 +152,16 @@ sẽ nhận được kết quả sau:
 
 > John Gruber (born 1973) is a technology blogger, UI designer, and the inventor of the Markdown markup language. Gruber is from the Philadenlphia, Pennsylvania, area. He received his Bachelor of Science in computer science from Drexel University, then worked for Bare Bones Software (2000-2002) and Joyent (2005-2006). Since 2002, he has wwritten and produces Daring Fireball, a technology-focused blog.
 
+
+**8. Chú thích**
+
+Dùng ký tự `^` bên trong ngoặc vuông `[]` để đánh dấu và viết lại giải thích ở cuối
+
+`John Gruber[^1].`
+ ...
+ ...
+ [^1]: writer, blog publisher, UI designer, the inventor of the Markdown publishing format. 
+
   
   
       
