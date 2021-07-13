@@ -118,9 +118,12 @@
    **5. Chèn hình ảnh**
    
    Dẫn hình ảnh trên cùng dòng:
-     ![alt text] (link)
+   
+    `![alt text] (link)`
+   
    Dẫn hình ảnh theo cách tham chiếu:
-     ![alt text][Text]
+   
+     ![alt text][Text]`
       [Text]:link
 
       
