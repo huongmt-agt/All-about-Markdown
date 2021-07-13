@@ -68,21 +68,13 @@
  
   
       * Tổng quan về kỹ thuật
-    
          * Chức năng dẫn nhập trong C++
-      
          * Thư viện C++
-     
       * Các ví dụ về C++
-    
         * Các ví dụ đơn giản
-        
           * Hello world
-        
           * Đọc bàn phím và hiển thị ra màn hình chuẩn
-        
         * Viết theo mẫu hình tiêu bản
-      
         * Viết theo mẫu hình hướng đối tượng
         
   Nếu bạn muốn dùng số để đánh dấu viết số và một dấu chấm `.`
@@ -90,3 +82,10 @@
         `1. Xe đạp`
          2. Xe hơi
          3. Xe gắn máy
+    
+    sẽ trở thành: 
+         
+         1. Xe đạp
+         2. Xe hơi
+         3. Xe gắn máy
+       
