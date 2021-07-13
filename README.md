@@ -56,5 +56,16 @@
        `* Viết theo mẫu hình văn bản`
        `* Viết theo mẫu hình đối tượng`
        
+       sẽ trở thành:
+       * Tổng quan về kỹ thuật
+         * Chức năng dẫn nhập trong C++
+         * Thư viện C++
+       * Các ví dụ trong C++
+         * Các ví dụ đơn giản
+           * Hello world
+           * Đọc bàn phím hiển thị ra màn hình chuẩn
+         * Viết theo mẫu hình văn bản
+         * Viết theo mẫu hình đối tượng
+       
         
     
