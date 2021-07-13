@@ -143,6 +143,17 @@ sẽ nhận được kết quả sau:
 |    Five         |       Six      |     Seven    |
 |    Two          |     Three      |     Four     |
 |    Eight        |      Nine      |      Ten     |
+
+**7. Trích dẫn**
+ 
+  Để tạo trích dẫn, bạn sử dụng ký tự `>`
+  
+`> John Gruber (born 1973) is a technology blogger, UI designer, and the inventor of the Markdown markup language. Gruber is from the Philadelphia, Pennsylvania, area. He received his Bachelor of Science in computer science from Drexel University, then worked for Bare Bones Software (2000–2002) and Joyent (2005–2006). Since 2002, he has written and produced Daring Fireball, a technology-focused blog.`
+
+> John Gruber (born 1973) is a technology blogger, UI designer, and the inventor of the Markdown markup language. Gruber is from the Philadenlphia, Pennsylvania, area. He received his Bachelor of Science in computer science from Drexel University, then worked for Bare Bones Software (2000-2002) and Joyent (2005-2006). Since 2002, he has wwritten and produces Daring Fireball, a technology-focused blog.
+
+  
+  
       
    
    
