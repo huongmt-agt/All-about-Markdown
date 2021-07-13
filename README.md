@@ -129,6 +129,14 @@
   **6. Tạo bảng**
      
       Các cột được tách nau bằng dấu ngăn thẳng dduwngs`|` và header được tách với content bằng dấu gạch ngang `-`
+     
+     `| Previous number |     Number     | Next number  |`
+      | --------------- |:--------------:| ------------:|
+      |    Five         |       Six      |     Seven    |
+      |    Two          |     Three      |     Four     |
+      |    Eight        |      Nine      |      Ten     |
+      
+sẽ nhận được kết quả sau:      
       
 | Previous number |     Number     | Next number  |
 | --------------- |:--------------:| ------------:|
