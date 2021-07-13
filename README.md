@@ -43,29 +43,8 @@
   - Tạo kiểu chữ gạch ngang: `~~Text~~`
   
   **3. Định dạng danh sách**
+  Để định dạng một đoạn văn bản thành các gạch đầu dòng, bạn dùng kỹ tự `*` và một dấu cách ở mỗi ý và dùng thêm 2 dấu cách ở đằng trước nếu muốn lùi vào một level
   
-    Để định dạng một đoạn văn bản thành các gạch đầu dòng, bạn dùng ký tự `*` và một dấu cách ở mỗi ý và dùng thêm 2 dấu cách ở đằng trước nếu muốn lùi về một level
-    
-    `* Tổng quan về kỹ thuật`
-       `* Chức năng dẫn nhập trong C++`
-       `* Thư viện C++`
-    `* Các ví dụ trong C++`
-       `* Các ví dụ đơn giản`
-         `* Hello world`
-         `* Đọc bàn phím hiển thị ra màn hình chuẩn`
-       `* Viết theo mẫu hình văn bản`
-       `* Viết theo mẫu hình đối tượng`
-       
-       sẽ trở thành:
-       * Tổng quan về kỹ thuật
-         * Chức năng dẫn nhập trong C++
-         * Thư viện C++
-       * Các ví dụ trong C++
-         * Các ví dụ đơn giản
-           * Hello world
-           * Đọc bàn phím hiển thị ra màn hình chuẩn
-         * Viết theo mẫu hình văn bản
-         * Viết theo mẫu hình đối tượng
        
         
     
