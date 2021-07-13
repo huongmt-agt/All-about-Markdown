@@ -90,12 +90,7 @@
          3. Xe gắn máy
        
   **4. Dẫn link liên kết**
-   
-    Chỉ cần gõ link tuyệt đối (có HTTP hoặc HTTPS), Markdown sẽ tạo liên kết tự động
-    
-    https://en.wikipedia.org/wiki/John_Gruber
-    
-    sẽ dẫn thẳng tới đường link: https://en.wikipedia.org/wiki/John_Gruber
+   Chỉ cần gõ đường link tuyệt đối (có http hoặc https), Markdown sẽ tạo liên kết tự động
    
    Ngoài ra, bạn có thể tạo liên kết bằng cách kết hợp dấu ngoặc cho văn bản liên kết và dấu ngoặc cho URL theo mẫu như sau: `[Text](Link)`
    
