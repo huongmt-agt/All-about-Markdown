@@ -93,6 +93,6 @@
    
     Chỉ cần gõ đường link tuyệt đối (có HTTP hoặc HTTPS), Markdown sẽ tạo liên kết tự động
     
-    `https://en.wikipedia.org/wiki/John_Gruber`
+    https://en.wikipedia.org/wiki/John_Gruber
     
     sẽ dẫn thẳng tới đường link: https://en.wikipedia.org/wiki/John_Gruber
