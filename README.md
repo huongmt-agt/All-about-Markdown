@@ -110,8 +110,10 @@
    
    Ngoài ra, bạn có thể tạo liên kết bằng cách kết hợp dấu ngoặc cho văn bản liên kết và dấu ngoặc cho URL theo mẫu như sau: `[Text](Link)`
    
-        `[Trang web vẽ Mockup online](https://moqups.com/)
+        [Trang web vẽ Mockup online](https://moqups.com/)
         
+      sẽ hiển thị như sau: [Trang web vẽ Mockup online](https://moqups.com/)
+      
    
    
    
