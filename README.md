@@ -15,7 +15,7 @@
   
  Không chỉ vậy, nếu so sánh với các phần mềm soạn thảo online/offline như MS Word (Google Docs nếu viết online) phải sử dụng các phím tắt hoặc nút công cụ để _bôi đậm, in nghiêng, định dạng thành danh sách hay chèn link, chèn ảnh v.v..._ thì thao tác sử dụng thẻ bằng Markdown đơn giản và nhanh chóng hơn rất nhiều.
 
-**III. Các cú pháp thường sử sụng**
+**III. Các cú pháp thường dùng**
  
  **1. Tạo tiêu đề**
     
