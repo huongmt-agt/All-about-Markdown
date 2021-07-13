@@ -44,3 +44,4 @@
   
   **3. Định dạng danh sách**
   
+     Để định đạng một đoạn văn bản thành các gạch đầu dòng, bạn dùng ký tự `*` và một dấu cách ở mỗi ý và dùng thêm 2 dấu cách ở đằng trước nếu muốn lùi vào một level.
