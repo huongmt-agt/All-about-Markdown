@@ -52,17 +52,17 @@
     
     * Thư viện C++
     
-  `* Các ví dụ về C++`
+  * Các ví dụ về C++
   
-    `* Các ví dụ đơn giản`
+    * Các ví dụ đơn giản`
     
-      `* Hello world`
+     * Hello world
       
-      `* Đọc bàn phím và hiển thị ra màn hình chuẩn`
+      * Đọc bàn phím và hiển thị ra màn hình chuẩn
       
-    `* Viết theo mẫu hình tiêu bản`
+    * Viết theo mẫu hình tiêu bản
     
-    `* Viết theo mẫu hình hướng đối tượng`
+    * Viết theo mẫu hình hướng đối tượng
   
        
         
