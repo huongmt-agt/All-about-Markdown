@@ -39,6 +39,8 @@
   
   - Tạo kiểu chữ in đậm: `**Text**`
   - Tạo kiểu chữ in nghiêng: `_Text_`
-  - Tạo kiểu chữ in đậm và in nghiêng: `**_Text**`
+  - Tạo kiểu chữ in đậm và in nghiêng: `**_Text_**`
   - Tạo kiểu chữ gạch ngang: `~~Text~~`
+  
+  **3. Định dạng danh sách**
   
