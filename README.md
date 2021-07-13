@@ -89,3 +89,8 @@
          2. Xe hơi
          3. Xe gắn máy
        
+  **4. Dẫn link liên kết**
+   
+    Chỉ cần gõ đường link tuyệt đối (có HTTP hoặc HTTPS), Markdown sẽ tạo liên kết tự động
+    `https://en.wikipedia.org/wiki/John_Gruber`
+    sẽ dẫn thẳng tới đường link: https://en.wikipedia.org/wiki/John_Gruber
