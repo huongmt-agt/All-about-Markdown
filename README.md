@@ -73,6 +73,18 @@
         
         * Thư viện C++
         
+      * Các ví dụ về C++
+      
+        * Các ví dụ đơn giản
+      
+          * Hello world
+        
+          * Đọc bàn phím và hiển thị ra màn hình chuẩn
+      
+        * Viết theo mẫu hình tiêu bản
+      
+        * Viết theo mẫu hình đối tượng
+        
         
   Nếu bạn muốn dùng số để đánh dấu viết số và một dấu chấm `.`
    
@@ -83,16 +95,23 @@
     sẽ trở thành: 
          
          1. Xe đạp
+         
          2. Xe hơi
+         
          3. Xe gắn máy
        
   **4. Dẫn link liên kết**
   
    Chỉ cần gõ đường link tuyệt đối (có http hoặc https), Markdown sẽ tạo liên kết tự động
    
-   `https://en.wikipedia.org/wiki/John_Gruber`
+        `https://en.wikipedia.org/wiki/John_Gruber`
    
-   sẽ dẫn thẳng tới đường link: https://en.wikipedia.org/wiki/John_Gruber
+     sẽ dẫn thẳng tới đường link: https://en.wikipedia.org/wiki/John_Gruber
    
    Ngoài ra, bạn có thể tạo liên kết bằng cách kết hợp dấu ngoặc cho văn bản liên kết và dấu ngoặc cho URL theo mẫu như sau: `[Text](Link)`
+   
+        `[Trang web vẽ Mockup online](https://moqups.com/)
+        
+   
+   
    
