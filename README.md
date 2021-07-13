@@ -116,6 +116,13 @@
       sẽ hiển thị như sau: [Trang web vẽ Mockup online](https://moqups.com/)
      
    **5. Chèn hình ảnh**
+   
+   Dẫn hình ảnh trên cùng dòng:
+     ![alt text] (link)
+   Dẫn hình ảnh theo cách tham chiếu:
+     ![alt text][Text]
+      [Text]:link
+
       
    
    
