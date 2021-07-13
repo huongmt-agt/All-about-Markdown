@@ -79,7 +79,7 @@
         
   Nếu bạn muốn dùng số để đánh dấu viết số và một dấu chấm `.`
    
-        `1. Xe đạp`
+         1. Xe đạp
          2. Xe hơi
          3. Xe gắn máy
     
