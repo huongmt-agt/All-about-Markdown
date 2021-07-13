@@ -119,13 +119,22 @@
    
    Dẫn hình ảnh trên cùng dòng:
    
-    `![alt text] (link)`
+    ![alt text] (link)
    
    Dẫn hình ảnh theo cách tham chiếu:
    
-     ![alt text][Text]`
+     ![alt text][Text]
       [Text]:link
-
+     
+  **6. Tạo bảng**
+     
+      Các cột được tách nau bằng dấu ngăn thẳng dduwngs`|` và header được tách với content bằng dấu gạch ngang `-`
+      
+| Previous number |     Number     | Next number  |
+| --------------- |:--------------:| ------------:|
+|    Five         |       Six      |     Seven    |
+|    Two          |     Three      |     Four     |
+|    Eight        |      Nine      |      Ten     |
       
    
    
