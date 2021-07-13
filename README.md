@@ -91,7 +91,7 @@
        
   **4. Dẫn link liên kết**
    
-    Chỉ cần gõ đường link tuyệt đối (có HTTP hoặc HTTPS), Markdown sẽ tạo liên kết tự động
+    Chỉ cần gõ link tuyệt đối (có HTTP hoặc HTTPS), Markdown sẽ tạo liên kết tự động
     
     https://en.wikipedia.org/wiki/John_Gruber
     
