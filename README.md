@@ -35,4 +35,10 @@
   
   ### Tiêu đề 3 (h3)
   
+  **2. Định dạng kiểu chữ**
+  
+  - Tạo kiểu chữ in đậm: `**Text**`
+  - Tạo kiểu chữ in nghiêng: `_Text_`
+  - Tạo kiểu chữ in đậm và in nghiêng: `**_Text**`
+  - Tạo kiểu chữ gạch ngang: `~~Text~~`
   
