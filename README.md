@@ -22,6 +22,17 @@
    Các lớp tiêu đề h1,h2,h3 cho đến h6 có thể viết được bằng các thêm số lượng ký tự `#` tương ứng vào đầu dòng. Một ký tự `#` tương đương với h1, 2 ký tự `#` tương đương với h2. Ví dụ như sau:
    
   `# Tiêu đề 1 (h1)`
+  
   `## Tiêu đề 2 (h2)`
+  
   `###Tiêu đề 3 (h3)`
+  
+  Sẽ nhận được kết quả như sau:
+  
+  # Tiêu đề 1 (h1)
+  
+  ## Tiêu đề 2 (h2)
+  
+  ### Tiêu đề 3 (h3)
+  
   
