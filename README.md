@@ -182,4 +182,3 @@ Dùng ký tự `^` bên trong ngoặc vuông `[]` để đánh dấu và viết 
   2. Codehub (https://www.codehub.com.vn/Markdown-La-Gi)
 
 
-sondv
