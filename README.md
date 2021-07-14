@@ -1,4 +1,4 @@
-# All-about-Markdown
+﻿# All-about-Markdown
 **I. Markdown là gì?**
 
   Markdown là ngôn ngữ đánh dấu văn bản thô được tạo ra bởi John Gruber năm 2004, với mục đích cho phép người sử dụng "dễ viết các định dạng văn bản đơn giản dễ đọc và tùy chọn chuyển đổi nó thành các mã XHTML hợp lệ (hoặc HTML). 
@@ -180,3 +180,6 @@ Dùng ký tự `^` bên trong ngoặc vuông `[]` để đánh dấu và viết 
   
   1. Kipalog (https://kipalog.com/posts/Huong-dan-su-dung-Markdown-tren-Kipalog)
   2. Codehub (https://www.codehub.com.vn/Markdown-La-Gi)
+
+
+sondv
