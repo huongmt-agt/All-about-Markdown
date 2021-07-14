@@ -104,13 +104,14 @@
   
    Chỉ cần gõ đường link tuyệt đối (có http hoặc https), Markdown sẽ tạo liên kết tự động
    
-        `https://en.wikipedia.org/wiki/John_Gruber`
+        https://en.wikipedia.org/wiki/John_Gruber
+        
    
      sẽ dẫn thẳng tới đường link: https://en.wikipedia.org/wiki/John_Gruber
    
    Ngoài ra, bạn có thể tạo liên kết bằng cách kết hợp dấu ngoặc cho văn bản liên kết và dấu ngoặc cho URL.
    
-        `[Trang web vẽ Mockup online](https://moqups.com/)`
+        [Trang web vẽ Mockup online](https://moqups.com/)
         
         
       sẽ hiển thị như sau: [Trang web vẽ Mockup online](https://moqups.com/)
@@ -129,7 +130,8 @@
      
   **6. Tạo bảng**
      
-      Các cột được tách nau bằng dấu ngăn thẳng dduwngs`|` và header được tách với content bằng dấu gạch ngang `-`.Ở dòng ngăn cách giữa header và content bạn sẽ thấy ký hiệu căn lề trái phải (cột 2 và cột 3) bằng dấu hai chấm `:`
+      Các cột được tách nhau bằng dấu ngăn thẳng đứng | và header được tách với content bằng dấu gạch ngang -.
+      Ở dòng ngăn cách giữa header và content bạn sẽ thấy ký hiệu căn lề trái phải (cột 2 và cột 3) bằng dấu hai chấm :
      
       | Previous number |     Number     | Next number  |
       | --------------- |:--------------:| ------------:|
