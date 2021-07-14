@@ -121,6 +121,7 @@
    
     ![alt text] (link)
    
+    ![Bingo game](http://blog-imgs-47.fc2.com/n/i/j/nijiirokyozai/meishi_bingo.jpg)
    Dẫn hình ảnh theo cách tham chiếu:
    
      ![alt text][Text]
