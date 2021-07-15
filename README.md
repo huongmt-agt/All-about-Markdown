@@ -9,7 +9,7 @@
 
 **II. Tại sao cần dùng Markdown**
   
-  HTML là một ngôn ngữ phổ biến, được sử dụng rộng rãi trong các ứng dụng internet từ các trang web tới nội dung email hay rất nhiều các tài liệu hướng dẫn online cũng đều sử dụng ngôn ngữ này. 
+  HTML là một ngôn ngữ phổ biến, được sử dụng rộng rãi trong các ứng dụng Internet từ các trang web tới nội dung email hay rất nhiều các tài liệu hướng dẫn online cũng đều sử dụng ngôn ngữ này. 
   
   Tuy nhiên, nhược điểm của nó là cú pháp của ngôn ngữ này không được thân thiện lắm với người dùng. Nếu như không có kiến thức về ngôn ngữ HTML thì bạn rất có thể đọc được nội dung của đoạn văn bản trên. Và ngay cả khi bạn đã hiểu về HTML thì đoạn mã vẫn gây rối mắt
   
@@ -49,42 +49,33 @@
   `* Tổng quan về kỹ thuật`
   
     * Chức năng dẫn nhập trong C++
-    
+   
     * Thư viện C++
     
   `* Các ví dụ về C++`
   
-    * Các ví dụ đơn giản`
+    * Các ví dụ đơn giản
     
-     * Hello world
+      * Hello world
       
       * Đọc bàn phím và hiển thị ra màn hình chuẩn
       
     * Viết theo mẫu hình tiêu bản
     
-    * Viết theo mẫu hình hướng đối tượng
+    `* Viết theo mẫu hình hướng đối tượng`
+
+sẽ nhận được kết quả như sau:
   
- sẽ trở thành:
- 
-  
-      * Tổng quan về kĩ thuật
-      
-        * Chức năng dẫn nhập trên C++
-        
-        * Thư viện C++
-        
-      * Các ví dụ về C++
-      
-        * Các ví dụ đơn giản
-      
-          * Hello world
-        
-          * Đọc bàn phím và hiển thị ra màn hình chuẩn
-      
-        * Viết theo mẫu hình tiêu bản
-      
-        * Viết theo mẫu hình đối tượng
-        
+* Tổng quan về kỹ thuật
+  * Chức năng dẫn nhập trong C++
+  * Thư viện C++
+* Các ví dụ về C++
+  * Các ví dụ đơn giản
+    * Hello world
+    * Đọc bàn phím và hiển thị ra màn hình chuẩn
+  * Viết theo mẫu hình tiêu bản
+  * Viết theo mẫu hình hướng đối tượng
+
         
   Nếu bạn muốn dùng số để đánh dấu viết số và một dấu chấm `.`
    
@@ -92,29 +83,25 @@
          2. Xe hơi
          3. Xe gắn máy
     
-    sẽ trở thành: 
-         
-         1. Xe đạp
-         
-         2. Xe hơi
-         
-         3. Xe gắn máy
+sẽ trở thành:
+   1. Xe đạp
+   2. Xe hơi
+   3. Xe gắn máy
        
   **4. Dẫn link liên kết**
   
    Chỉ cần gõ đường link tuyệt đối (có http hoặc https), Markdown sẽ tạo liên kết tự động
    
-        https://en.wikipedia.org/wiki/John_Gruber
+        `https://en.wikipedia.org/wiki/John_Gruber`
         
    
-     sẽ dẫn thẳng tới đường link: https://en.wikipedia.org/wiki/John_Gruber
+sẽ dẫn thẳng tới đường link: https://en.wikipedia.org/wiki/John_Gruber
    
    Ngoài ra, bạn có thể tạo liên kết bằng cách kết hợp dấu ngoặc cho văn bản liên kết và dấu ngoặc cho URL.
    
         [Trang web vẽ Mockup online](https://moqups.com/)
         
-        
-      sẽ hiển thị như sau: [Trang web vẽ Mockup online](https://moqups.com/)
+sẽ hiển thị như sau: [Trang web vẽ Mockup online](https://moqups.com/)
      
    **5. Chèn hình ảnh**
    
@@ -122,7 +109,8 @@
    
     ![alt text] (link)
    
-    ![Bingo game](http://blog-imgs-47.fc2.com/n/i/j/nijiirokyozai/meishi_bingo.jpg)
+![Bingo game](http://blog-imgs-47.fc2.com/n/i/j/nijiirokyozai/meishi_bingo.jpg)
+
    Dẫn hình ảnh theo cách tham chiếu:
    
      ![alt text][Text]
